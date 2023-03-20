@@ -1,0 +1,24 @@
+3type of Data type:
+	1: Derive (array, Pointers )
+
+	2:User defined ( Union, structure, annumulator)
+
+	3:Build in / Primitives (integer (int,char), boolean , Floating point(Float, double))
+
+ARRAY (  int
+	char
+	float
+	string
+	double-Long
+	boolean-true(1),false(0)
+)
+
+Declared a variable in C programm:-
+	int a =10;
+	char b='$';
+	float c= 12.3f;
+	long int d=566555;
+	int aa=0x54;
+	float cc253e-2f;
+	printf("%d \n %d \n%0.2f",a,b,c);
+	return 0;
